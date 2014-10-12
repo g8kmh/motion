@@ -127,6 +127,12 @@
    * Fixed a build of motion for some kernel version with not good videodev.h 
    * Netcam Modulo 8
 
+
+4.0 Fork
+   * Added MQTT for motion detection alerts - connect for openhab
+   * Added parameter from MQTT for display - openhab
+
+
 3.2.12 Summary of Changes
 
 Bugfixes
